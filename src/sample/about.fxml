@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane disable="false" prefHeight="234.0" prefWidth="407.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="sample.Controller">
+  <children>
+    <TextArea disable="false" editable="false" focusTraversable="false" layoutX="0.0" layoutY="0.0" prefHeight="234.0" prefWidth="416.0" text="По тех. заданию необходимо было написать консольное приложение, но я решил применить знания по JavaFX&#10;Почитайте комментарии в в коде, не смог реализовать некоторые функции.&#10;Скажу честно - написал программу не сходу, так как многое подзабыл и потребовалось некоторое время, чтобы вспомнить полученные знания. &#10;Язык Java изучаю с начала декабря 2019, обучение длинною в год в GeekBrains.&#10;В мае его временно приостановил, тк необходимо было лечь в больницу. Планирую возобновить к концу августа - началу сентября. &#10;Если Вы сможете мне подсказать, как реализовать то, что у меня не получилось - прошу Вас отписать мне. &#10;&#10;Жиеналин Азамат&#10;тел. (925) 197 06 30&#10;e-mail: zhienalin.a@yandex.ru&#10;https://vk.com/zhienalin97555&#10;" visible="true" wrapText="true" />
+  </children>
+</AnchorPane>
